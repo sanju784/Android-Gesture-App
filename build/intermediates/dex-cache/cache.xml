@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/AndroidStudioProjects/Android-Gesture-App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad90e37ea64d835e18949c451526c093284574c7">
+        <dex dex="/Users/sanjeevchaurasia/AndroidStudioProjects/Android-Gesture-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a332181111183fb26995df21f6b63e727cc8a05e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sanjeevchaurasia/AndroidStudioProjects/Android-Gesture-App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sanjeevchaurasia/AndroidStudioProjects/Android-Gesture-App/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aef54e05440812ab0dd1fc5ad50d35314219c150/classes.dex" />
+    </item>
+
+</items>
